@@ -73,6 +73,8 @@ verify_*.py
 .claude/*
 !.claude/skills/
 !.claude/skills/**
+!.claude/memory/
+!.claude/memory/**
 
 # ignore static files
 static/
